@@ -9,7 +9,7 @@ At the moment, the function returns the running: mean, median, standard deviatio
 
 This file also includes function medabsdev(x,axis) that calculates the MAD inside run_stats.
 
-The code is slow when the running window is large. Suggestions that would improve the speed are very welcome. All suggestions welcome.
+The code is slow when the running window is large. Suggestions that would improve the speed are very welcome. All suggestions welcome. Please, use the issues system. 
 
 I am planning to add features to choose the running stats to be performed in the options, to avoid unnecessary calculations. In a foreseeable future.
 
